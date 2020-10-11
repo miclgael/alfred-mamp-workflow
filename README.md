@@ -12,8 +12,8 @@ Otherwise you can clone the repo and make it yourself, its ridiculously simple, 
 
 ### Commands
 
-- `MAMP start` - Start local development servers
-- `MAMP stop` - Stop local development servers
+- `mamp start` or simply `start` - Start local development servers
+- `mamp stop` or simply `stop` - Stop local development servers
 
 ## Caveats
 
